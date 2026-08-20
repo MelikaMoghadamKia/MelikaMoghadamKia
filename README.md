@@ -1,96 +1,129 @@
-<h1 align="center">Melika MoghadamKia</h1>
-<h3 align="center">Post-Quantum Cryptography · IoT & Satellite Security · Network Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Post--Quantum%20Cryptography-6a0dad?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-IoT%20%26%20Satellite%20Security-2a5db0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Seeking-MSc%20Cybersecurity%20%2F%20Cryptography-1f6f43?style=flat-square" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Melika%20MoghadamKia&fontSize=42&fontColor=e0e6ff&fontAlignY=38&desc=Post-Quantum%20Cryptography%20%7C%20Cybersecurity%20Research%20%7C%20Network%20Engineering&descAlignY=58&descColor=7b8cde"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7B8CDE&center=true&vCenter=true&width=650&lines=Seeking+a+Research-Based+MSc+in+Cybersecurity+(Europe);Post-Quantum+Cryptography+%7C+Network+Security;From+Network+Infrastructure+to+Cryptographic+Research" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## About Me
 
-I am a Software Engineering graduate seeking admission to a **2-year, research-based MSc program in Cybersecurity and Cryptography** in Europe. My academic trajectory moves from a rigorous foundation in network infrastructure toward cryptographic research addressing the transition to a post-quantum world.
+I am a **Software Engineering graduate** (B.Sc., Islamic Azad University, Central Tehran Branch) with a solid foundation in network infrastructure, currently transitioning into **cybersecurity and cryptographic research**, with a particular focus on **Post-Quantum Cryptography (PQC)**.
 
-I began my career with hands-on, standards-based network engineering — routing (OSPF, IS-IS), overlay architectures (VXLAN), and enterprise-grade Cisco/Linux deployments — before redirecting this systems-level understanding toward the security layer itself. My current research centers on **Post-Quantum Cryptography (PQC)**, with applied work in **IoT constrained-device security** and **satellite communications**, examining how lattice-based cryptographic primitives can be deployed under real-world computational and bandwidth constraints.
+My academic work spans quantum-resistant key encapsulation for satellite communication channels and lattice-based cryptography for constrained IoT devices. I am seeking a **2-year, research-based MSc in Cybersecurity** in Europe, where I can deepen my expertise in cryptographic protocol design and quantum-resistant security architectures.
 
-This combination — practical infrastructure experience paired with cryptographic research — is the foundation I intend to build on at the graduate level.
+> *The transition to post-quantum security is not optional — it is inevitable. I want to contribute to building it.*
+
+---
+
+## Education
+
+| Degree | Field | Institution | Year |
+|---|---|---|---|
+| B.Sc. | Software Engineering | Islamic Azad University, Central Tehran Branch | 2026 · GPA 19.83/20 |
+| Associate Degree | Software Engineering | Islamic Azad University, Central Tehran Branch | 2024 |
+
+---
+
+## Professional Experience
+
+**Network Specialist** — 8 months of hands-on experience in enterprise network operations, applying CCNP-level routing, switching, and SD-WAN principles in production environments.
 
 ---
 
 ## Research Experience
 
-### Project A — Post-Quantum Key Encapsulation for Satellite Communications
-*Bachelor's Thesis*
+### Project A — Published Paper: PQC for the Internet of Things
 
-This thesis addresses the security of the satellite communication uplink/downlink against quantum-capable adversaries, replacing classical key exchange with NIST-standardized post-quantum primitives.
+**"Post-Quantum Cryptography for the Internet of Things: Challenges, Solutions, and Future Directions"**
+Co-authored paper, presented at the **10th International Conference on Combinatorics, Cryptography, Computer Science and Computation (I4C 2025)**, December 17–18, 2025.
 
-**Core contributions:**
-- Designed and simulated a key establishment layer using **ML-KEM (CRYSTALS-Kyber)** for post-quantum key encapsulation over a satellite communication channel.
-- Integrated **ML-DSA (CRYSTALS-Dilithium)** for message authentication, providing quantum-resistant digital signatures alongside the encapsulation layer — a combination that strengthens the protocol's resistance to both passive and active adversaries.
-- Benchmarked cryptographic performance in Python using **liboqs**, comparing post-quantum key encapsulation against classical RSA-3072 key exchange under equivalent conditions.
+The paper examines the exposure of resource-constrained IoT infrastructure to quantum adversaries and evaluates lattice-based schemes such as **Kyber-512** as a candidate replacement for classical public-key cryptography on embedded platforms (e.g., ARM Cortex-M4 class devices). Given the severe memory, energy, and computational limits of IoT hardware, the paper positions **hybrid classical–post-quantum cryptography** as a practical transitional strategy — allowing systems to gain quantum resistance today without discarding the interoperability of existing classical infrastructure.
 
-**Simulation results — ML-KEM-768 vs. RSA-3072 (liboqs, Python):**
-
-| Operation | ML-KEM-768 | RSA-3072 | Result |
-|---|---|---|---|
-| Key generation | `[insert ms]` | `[insert ms]` | `[Xx faster]` |
-| Encapsulation / Encryption | `[insert ms]` | `[insert ms]` | `[Xx faster]` |
-| Decapsulation / Decryption | `[insert ms]` | `[insert ms]` | `[Xx faster]` |
-| Public key size | `[insert bytes]` | `[insert bytes]` | — |
-| Ciphertext size | `[insert bytes]` | `[insert bytes]` | — |
-
-*Table populated from local simulation output — insert your recorded figures to finalize.*
+**Focus areas:** resource-efficiency trade-offs of PQC on embedded hardware, hybrid cryptographic deployment models, feasibility of lattice-based schemes for IoT-scale constraints.
 
 ---
 
-### Project B — Post-Quantum Cryptography for IoT
-*Published Paper*
+### Project B — Bachelor's Thesis: PQC & QKD for Satellite Communications
 
-This work evaluates the feasibility of deploying post-quantum key exchange on resource-constrained IoT hardware, where memory, energy, and bandwidth budgets are orders of magnitude smaller than in conventional computing environments.
+**"Post-Quantum and Quantum Key Distribution for Satellite Communications: Threats, Architectures, and Future Directions"**
 
-**Core contributions:**
-- Benchmarked **Kyber-512** on an **ARM Cortex-M4** target, quantifying the real hardware cost of post-quantum key exchange on embedded devices.
-- Measured and reported the metrics most relevant to constrained deployment: **energy consumption per operation**, **peak RAM usage**, and **public key / ciphertext sizes**, establishing whether Kyber-512 fits within typical IoT power and memory budgets.
-- Proposed a **hybrid classical–post-quantum key exchange** as a transitional solution — combining a classical primitive with Kyber-512 to preserve backward compatibility and defense-in-depth during the current migration period, while full post-quantum-only deployment matures.
+This thesis investigates a **hybrid QKD–PQC security architecture** for Low Earth Orbit (LEO) satellite communication links, designed to withstand both classical and quantum adversaries. The core contribution centers on the **PQC key encapsulation layer**, evaluating **ML-KEM (Kyber)** as the primary mechanism for establishing session keys, and integrating **ML-DSA** for digital signatures as a complementary authentication layer — together forming a quantum-resistant handshake suited to the latency and bandwidth constraints of space-based links.
 
-**Key device-level metrics (ARM Cortex-M4, Kyber-512):**
+**Standardized parameter comparison — ML-KEM-768 vs. RSA-3072** *(NIST FIPS 203 reference parameters)*:
 
-| Metric | Value |
-|---|---|
-| Energy per key exchange | `[insert mJ]` |
-| Peak RAM usage | `[insert KB]` |
-| Public key size | `[insert bytes]` |
-| Ciphertext size | `[insert bytes]` |
+| Parameter | ML-KEM-768 | RSA-3072 |
+|---|---|---|
+| Security basis | Module-LWE (lattice) | Integer factorization |
+| NIST security category | Level 3 | ~128-bit equivalent |
+| Public key size | 1,184 bytes | 384 bytes |
+| Ciphertext / encapsulation size | 1,088 bytes | 384 bytes |
+| Quantum resistance | Yes | No |
 
-*Table populated from the published paper's benchmark results — insert your reported figures to finalize.*
+*Note: this table reflects standardized reference parameters; empirical benchmark figures from thesis simulations can be substituted here once finalized.*
+
+**Focus areas:** post-quantum key encapsulation, hybrid QKD–PQC handshake design, threat modeling for space-based communication channels.
 
 ---
 
 ## Technical & Engineering Skills
 
 **Cryptography & Security**
-`Post-Quantum Cryptography (ML-KEM, ML-DSA, Kyber)` · `liboqs` · `Key Encapsulation Mechanisms` · `Hybrid Cryptographic Schemes` · `Applied Cryptographic Benchmarking`
+![PQC](https://img.shields.io/badge/Post--Quantum%20Cryptography-0f3460?style=flat-square&logoColor=white)
+![QKD](https://img.shields.io/badge/Quantum%20Key%20Distribution-0d1117?style=flat-square&logoColor=white)
+![ML-KEM](https://img.shields.io/badge/ML--KEM%20(Kyber)-1a1f35?style=flat-square&logoColor=white)
+![ML-DSA](https://img.shields.io/badge/ML--DSA%20(Dilithium)-0f3460?style=flat-square&logoColor=white)
+![Crypto Protocols](https://img.shields.io/badge/Cryptographic%20Protocols-0d1117?style=flat-square&logoColor=white)
 
 **Infrastructure & Networking**
-`CCNP Enterprise` · `CCNP SD-WAN` · `OSPF` · `IS-IS` · `VXLAN` · `Cisco Catalyst` · `Enterprise Network Design`
+![CCNP Enterprise](https://img.shields.io/badge/CCNP%20Enterprise-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNP SD-WAN](https://img.shields.io/badge/CCNP%20SD--WAN-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0d1117?style=flat-square&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1a1f35?style=flat-square&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-0f3460?style=flat-square&logoColor=white)
 
-**Systems & OS**
-`Linux` · `Docker` · `LXC` · `Embedded / ARM Cortex-M4 Targets`
+**Systems & Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC%20Containers-333333?style=flat-square&logoColor=white)
 
-**Programming**
-`Python` (primary — research & simulation) · `C++` · `JavaScript` · `HTML/CSS`
+---
 
-The infrastructure and networking skill set underpins the research above directly: understanding routing, overlay networks, and enterprise deployment constraints informs how cryptographic protocols must behave under real network and hardware conditions — not just in isolated simulation.
+## Certifications
+
+Internationally recognized certificates in networking and infrastructure technologies, completed alongside coursework (verifiable on LinkedIn).
+
+---
+
+## Currently Strengthening
+
+Mathematical foundations underlying lattice-based cryptography — **linear algebra**, **number theory**, and introductory **lattice theory** — to support deeper engagement with PQC protocol analysis at the graduate level.
+
+---
+
+## Research Trajectory
+
+Broad interest in **cybersecurity and applied cryptography**, with an intention to specialize further in **post-quantum cryptography** during graduate study. Targeting research-based MSc programs in **Europe**.
 
 ---
 
 ## Contact
 
-<p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="left">
 
-*Open to research collaboration and discussion related to post-quantum cryptography, IoT security, and satellite communications.*
+[![Email](https://img.shields.io/badge/Email-MelikaMoghadamKia%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:MelikaMoghadamKia@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melika%20MoghadamKia-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melikamoghadamkia)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=100&section=footer"/>
+
+</div>
