@@ -1,129 +1,109 @@
-<div align="center">
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a78bfa&height=210&section=header&text=Melika%20MoghadamKia&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%26%20AI&descSize=20&descAlignY=58&animation=fadeIn" alt="Melika MoghadamKia" width="100%">
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Melika%20MoghadamKia&fontSize=42&fontColor=e0e6ff&fontAlignY=38&desc=Post-Quantum%20Cryptography%20%7C%20Cybersecurity%20Research%20%7C%20Network%20Engineering&descAlignY=58&descColor=7b8cde"/>
+<p align="center">
+  <a href="https://github.com/MelikaMoghadamKia">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+AI;Post-Quantum+Cryptography+Researcher;Transitioning+into+AI+Security" alt="Cybersecurity & AI | Post-Quantum Cryptography Researcher | Transitioning into AI Security">
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7B8CDE&center=true&vCenter=true&width=650&lines=Seeking+a+Research-Based+MSc+in+Cybersecurity+(Europe);Post-Quantum+Cryptography+%7C+Network+Security;From+Network+Infrastructure+to+Cryptographic+Research" alt="Typing SVG" />
+<p align="center">
+  <a href="mailto:MelikaMoghadamKia@protonmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/melikamoghadamkia"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/Lordfav_mel"><img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <img src="https://komarev.com/ghpvc/?username=MelikaMoghadamKia&style=for-the-badge&color=a78bfa&label=Profile+Views" alt="Profile views">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=2&section=header" width="100%">
+
+## 💜 About Me
+
+I am a specialist transitioning into **artificial intelligence**, with a particular interest in **AI security**. I hold a BSc in Software Engineering (GPA 19.84/20) and am the first author of a review paper on post-quantum cryptography for Internet of Things systems, presented at the 10th International Conference on Combinatorics, Cryptography, Computer Science and Computation.
+
+As AI becomes part of critical systems, it raises new questions: how to protect models and the data they depend on, and how to apply machine learning to detect and respond to threats. These questions define my interests going forward.
+
+My professional experience in enterprise network infrastructure gives me a practical understanding of how real systems are built, connected and defended. I am now extending this foundation with machine learning and AI security, guided by one principle: *scientific knowledge keeps evolving, and continuous learning is part of the work.*
+
+<details>
+<summary><b>🇮🇷 درباره‌ی من (فارسی)</b></summary>
+<br>
+<div dir="rtl" align="right">
+
+من در مسیر ورود به حوزه‌ی **هوش مصنوعی** هستم و علاقه‌ی ویژه‌ام امنیت هوش مصنوعی است. دارای مدرک کارشناسی مهندسی نرم‌افزار با معدل ۱۹.۸۴ از ۲۰ هستم و نویسنده‌ی اول یک مقاله‌ی مروری درباره‌ی رمزنگاری پساکوانتومی برای اینترنت اشیا هستم که در دهمین کنفرانس بین‌المللی ترکیبیات، رمزنگاری، علوم کامپیوتر و محاسبات ارائه شده است.
+
+با ورود هوش مصنوعی به سیستم‌های حیاتی، پرسش‌های تازه‌ای پدید می‌آید: چگونه از مدل‌ها و داده‌هایشان محافظت کنیم، و چگونه از یادگیری ماشین برای شناسایی و مقابله با تهدیدها بهره بگیریم. این پرسش‌ها مسیر علایق من در آینده را می‌سازند.
+
+تجربه‌ی حرفه‌ای‌ام در زیرساخت شبکه‌ی سازمانی، درکی عملی از ساخت، اتصال و دفاع از سیستم‌های واقعی به من داده است. اکنون این پایه را با یادگیری ماشین و امنیت هوش مصنوعی گسترش می‌دهم، با یک اصل: دانش علمی پیوسته در حال تحول است و یادگیری مداوم بخشی از کار است.
 
 </div>
+</details>
 
----
+## 🎯 Areas of Interest
 
-## About Me
+| | |
+|---|---|
+| 🛡️ **Security of AI Systems** <br> Protecting machine learning models and the data they depend on from attack and misuse. | 🎯 **AI for Cyber Defense** <br> Applying machine learning to detect, classify and respond to threats. |
+| 🔐 **Post-Quantum Cryptography** <br> First author of a published review on PQC for resource-constrained IoT systems. | 🖧 **Infrastructure Foundation** <br> Hands-on experience with how enterprise and data center networks are built and defended. |
 
-I am a **Software Engineering graduate** (B.Sc., Islamic Azad University, Central Tehran Branch) with a solid foundation in network infrastructure, currently transitioning into **cybersecurity and cryptographic research**, with a particular focus on **Post-Quantum Cryptography (PQC)**.
+## 📄 Publication
 
-My academic work spans quantum-resistant key encapsulation for satellite communication channels and lattice-based cryptography for constrained IoT devices. I am seeking a **2-year, research-based MSc in Cybersecurity** in Europe, where I can deepen my expertise in cryptographic protocol design and quantum-resistant security architectures.
+> ### Post-Quantum Cryptography for the Internet of Things: Challenges, Solutions, and Future Directions
+> **Melika MoghadamKia** (first author), Azita Shirazipour, AmirArsalan Parsa
+> *10th International Conference on Combinatorics, Cryptography, Computer Science and Computation (I4C 2025), December 2025*
+>
+> ![Review Paper](https://img.shields.io/badge/Review_Paper-4c1d95?style=flat-square) ![First Author](https://img.shields.io/badge/First_Author-7c3aed?style=flat-square) ![I4C 2025](https://img.shields.io/badge/I4C-2025-a78bfa?style=flat-square)
+>
+> - Reviewed the threat that quantum computing poses to IoT security systems, including the *"harvest now, decrypt later"* attack scenario.
+> - Compared post-quantum cryptography schemes, including NIST-standardized lattice-based algorithms such as Kyber and Dilithium, in terms of memory footprint, processing time and energy consumption on resource-constrained IoT devices.
+> - Surveyed lightweight algorithm variants, hardware acceleration and hybrid approaches, and identified future directions including AI-based optimization, edge computing integration and standardization.
 
-> *The transition to post-quantum security is not optional — it is inevitable. I want to contribute to building it.*
+## 💼 Experience
 
----
+**Network Specialist** · Enterprise & Data Center Networking · *May 2024 – Dec 2024*
+- Analyzed legacy enterprise networks and documented their structural dependencies to support modernization decisions.
+- Proposed network architecture solutions in collaboration with the senior engineering team.
+- Contributed to SD-Access (SDA) and Leaf & Spine designs on Cisco Catalyst 9000 and Nexus 8000 platforms.
+- Worked on large-scale industrial data center projects.
 
-## Education
+## 🎓 Education
 
-| Degree | Field | Institution | Year |
+| Degree | Institution | Period | GPA |
 |---|---|---|---|
-| B.Sc. | Software Engineering | Islamic Azad University, Central Tehran Branch | 2026 · GPA 19.83/20 |
-| Associate Degree | Software Engineering | Islamic Azad University, Central Tehran Branch | 2024 |
+| **BSc, Software Engineering** | Islamic Azad University, Central Tehran Branch | 2026 | **19.84 / 20** |
+| **Associate Degree, Software Engineering** | Islamic Azad University | Sep 2022 – Jul 2024 | 17.81 / 20 |
 
----
+## 🧰 Technical Competencies
 
-## Professional Experience
+**Programming**<br>
+<img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-7c3aed?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white">
 
-**Network Specialist** — 8 months of hands-on experience in enterprise network operations, applying CCNP-level routing, switching, and SD-WAN principles in production environments.
+**Systems & Tools**<br>
+<img src="https://img.shields.io/badge/Linux-6d28d9?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-6d28d9?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-6d28d9?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-6d28d9?style=for-the-badge&logo=jira&logoColor=white">
 
----
+**Infrastructure**<br>
+<img src="https://img.shields.io/badge/Cisco_Networking-5b21b6?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/SD--Access-5b21b6?style=for-the-badge"> <img src="https://img.shields.io/badge/Leaf_%26_Spine-5b21b6?style=for-the-badge">
 
-## Research Experience
+**Currently Learning**<br>
+<img src="https://img.shields.io/badge/Machine_Learning_Fundamentals-a78bfa?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/AI_Security-a78bfa?style=for-the-badge&logo=shield&logoColor=white">
 
-### Project A — Published Paper: PQC for the Internet of Things
+**Training & Certificates:** CCNP training course (course completion certificate) · Docker · Linux · Python · C++ · JavaScript<br>
+**Languages:** English (fluent) · Persian (native)
 
-**"Post-Quantum Cryptography for the Internet of Things: Challenges, Solutions, and Future Directions"**
-Co-authored paper, presented at the **10th International Conference on Combinatorics, Cryptography, Computer Science and Computation (I4C 2025)**, December 17–18, 2025.
+## 🔭 Currently Exploring
 
-The paper examines the exposure of resource-constrained IoT infrastructure to quantum adversaries and evaluates lattice-based schemes such as **Kyber-512** as a candidate replacement for classical public-key cryptography on embedded platforms (e.g., ARM Cortex-M4 class devices). Given the severe memory, energy, and computational limits of IoT hardware, the paper positions **hybrid classical–post-quantum cryptography** as a practical transitional strategy — allowing systems to gain quantum resistance today without discarding the interoperability of existing classical infrastructure.
+- 📘 Machine learning fundamentals with Python
+- 🧩 Threat models for AI systems and the main attack classes against them
+- 📡 Applying anomaly detection to network traffic data
 
-**Focus areas:** resource-efficiency trade-offs of PQC on embedded hardware, hybrid cryptographic deployment models, feasibility of lattice-based schemes for IoT-scale constraints.
+## 🤝 I Am Open To
 
----
+- Research collaboration in AI security and machine learning for cyber defense
+- Graduate study and supervision opportunities in AI and security
+- Entry-level roles in AI and cybersecurity
 
-### Project B — Bachelor's Thesis: PQC & QKD for Satellite Communications
+📬 Reach me at **MelikaMoghadamKia@protonmail.com** or on [LinkedIn](https://linkedin.com/in/melikamoghadamkia).
 
-**"Post-Quantum and Quantum Key Distribution for Satellite Communications: Threats, Architectures, and Future Directions"**
-
-This thesis investigates a **hybrid QKD–PQC security architecture** for Low Earth Orbit (LEO) satellite communication links, designed to withstand both classical and quantum adversaries. The core contribution centers on the **PQC key encapsulation layer**, evaluating **ML-KEM (Kyber)** as the primary mechanism for establishing session keys, and integrating **ML-DSA** for digital signatures as a complementary authentication layer — together forming a quantum-resistant handshake suited to the latency and bandwidth constraints of space-based links.
-
-**Standardized parameter comparison — ML-KEM-768 vs. RSA-3072** *(NIST FIPS 203 reference parameters)*:
-
-| Parameter | ML-KEM-768 | RSA-3072 |
-|---|---|---|
-| Security basis | Module-LWE (lattice) | Integer factorization |
-| NIST security category | Level 3 | ~128-bit equivalent |
-| Public key size | 1,184 bytes | 384 bytes |
-| Ciphertext / encapsulation size | 1,088 bytes | 384 bytes |
-| Quantum resistance | Yes | No |
-
-*Note: this table reflects standardized reference parameters; empirical benchmark figures from thesis simulations can be substituted here once finalized.*
-
-**Focus areas:** post-quantum key encapsulation, hybrid QKD–PQC handshake design, threat modeling for space-based communication channels.
-
----
-
-## Technical & Engineering Skills
-
-**Cryptography & Security**
-![PQC](https://img.shields.io/badge/Post--Quantum%20Cryptography-0f3460?style=flat-square&logoColor=white)
-![QKD](https://img.shields.io/badge/Quantum%20Key%20Distribution-0d1117?style=flat-square&logoColor=white)
-![ML-KEM](https://img.shields.io/badge/ML--KEM%20(Kyber)-1a1f35?style=flat-square&logoColor=white)
-![ML-DSA](https://img.shields.io/badge/ML--DSA%20(Dilithium)-0f3460?style=flat-square&logoColor=white)
-![Crypto Protocols](https://img.shields.io/badge/Cryptographic%20Protocols-0d1117?style=flat-square&logoColor=white)
-
-**Infrastructure & Networking**
-![CCNP Enterprise](https://img.shields.io/badge/CCNP%20Enterprise-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![CCNP SD-WAN](https://img.shields.io/badge/CCNP%20SD--WAN-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-0d1117?style=flat-square&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1a1f35?style=flat-square&logoColor=white)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-0f3460?style=flat-square&logoColor=white)
-
-**Systems & Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC%20Containers-333333?style=flat-square&logoColor=white)
-
----
-
-## Certifications
-
-Internationally recognized certificates in networking and infrastructure technologies, completed alongside coursework (verifiable on LinkedIn).
-
----
-
-## Currently Strengthening
-
-Mathematical foundations underlying lattice-based cryptography — **linear algebra**, **number theory**, and introductory **lattice theory** — to support deeper engagement with PQC protocol analysis at the graduate level.
-
----
-
-## Research Trajectory
-
-Broad interest in **cybersecurity and applied cryptography**, with an intention to specialize further in **post-quantum cryptography** during graduate study. Targeting research-based MSc programs in **Europe**.
-
----
-
-## Contact
-
-<div align="left">
-
-[![Email](https://img.shields.io/badge/Email-MelikaMoghadamKia%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:MelikaMoghadamKia@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melika%20MoghadamKia-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melikamoghadamkia)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=100&section=footer"/>
-
-</div>
+<!-- ============ FOOTER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:4c1d95&height=120&section=footer" width="100%">
