@@ -61,6 +61,12 @@ My professional experience in enterprise network infrastructure gives me a pract
 > - Compared post-quantum cryptography schemes, including NIST-standardized lattice-based algorithms such as Kyber and Dilithium, in terms of memory footprint, processing time and energy consumption on resource-constrained IoT devices.
 > - Surveyed lightweight algorithm variants, hardware acceleration and hybrid approaches, and identified future directions including AI-based optimization, edge computing integration and standardization.
 
+## 🗂️ Projects
+
+<!--PROJECTS:START-->
+_Projects will appear here soon._
+<!--PROJECTS:END-->
+
 ## 💼 Experience
 
 **Network Specialist** · Enterprise & Data Center Networking · *May 2024 – Dec 2024*
