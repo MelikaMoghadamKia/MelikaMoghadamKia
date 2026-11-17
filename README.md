@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a78bfa&height=210&section=header&text=Melika%20MoghadamKia&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%26%20AI&descSize=20&descAlignY=58&animation=fadeIn" alt="Melika MoghadamKia" width="100%">
+  <img src="./banner.svg" alt="Melika MoghadamKia, Cybersecurity and AI" width="100%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=MelikaMoghadamKia&style=for-the-badge&color=a78bfa&label=Profile+Views" alt="Profile views">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=2&section=header" width="100%">
+---
 
 ## 💜 About Me
 
@@ -106,4 +106,4 @@ My professional experience in enterprise network infrastructure gives me a pract
 📬 Reach me at **MelikaMoghadamKia@protonmail.com** or on [LinkedIn](https://linkedin.com/in/melikamoghadamkia).
 
 <!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:4c1d95&height=120&section=footer" width="100%">
+<img src="./footer.svg" alt="" width="100%">
